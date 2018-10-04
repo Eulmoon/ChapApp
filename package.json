@@ -1,0 +1,28 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "A Chat app for fun",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/https%3A/%2Fgithub.com%2FEulmoon%2FChapApp.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "NgHSon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/https%3A/%2Fgithub.com%2FEulmoon%2FChapApp/issues"
+  },
+  "homepage": "https://github.com/https%3A/%2Fgithub.com%2FEulmoon%2FChapApp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.3.1",
+    "socket.io": "^2.1.1"
+  }
+}
